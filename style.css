@@ -16,7 +16,7 @@ body {
 }
 
 h1{
-    font-size: 5rem;
+    font-size: 4rem;
 }
 
 .left{
@@ -39,7 +39,7 @@ footer {
 .couple-image{
     height: 400px;
     float: left;
-    margin-right: 45px;
+    margin-right: 50px;
 }
 
 .future{
@@ -55,7 +55,7 @@ footer {
 }
 
 .logo{
-    width: 200px;
+    width: 150px;
 }
 
 .left > h2{
